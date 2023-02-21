@@ -31,7 +31,7 @@ El desafio consiste en la creación de una aplicación para el registro de reser
 
 ![Captura de pantalla 2023-02-21 005439](https://user-images.githubusercontent.com/106214586/220272947-5d5f076f-a015-4cd0-a31f-ff5f6bf3b1b3.png)
 
-[Captura de pantalla 2023-02-21 005503](https://user-images.githubusercontent.com/106214586/220273140-ccc7d180-e289-4109-936c-5dbfdef786cd.png)
+![Captura de pantalla 2023-02-21 005503](https://user-images.githubusercontent.com/106214586/220273349-744fe832-5bd8-4fd4-a967-9f52a508d822.png)
 
 ### Registro de reservación!
 
@@ -53,9 +53,7 @@ El desafio consiste en la creación de una aplicación para el registro de reser
 ![Captura de pantalla 2023-02-21 005730](https://user-images.githubusercontent.com/106214586/220272767-275d2fa1-3b7a-4187-a1a8-c1025296ba00.png)
 
 ![Captura de pantalla 2023-02-21 005713](https://user-images.githubusercontent.com/106214586/220272802-bd3afaa2-a9d0-45bd-bc9f-2f5c360cd960.png)
-
 ![Captura de pantalla 2023-02-21 005721](https://user-images.githubusercontent.com/106214586/220272813-1cd5b25a-a4b3-4e10-bd1d-91f44432a917.png)
-
 ![Captura de pantalla 2023-02-21 005737](https://user-images.githubusercontent.com/106214586/220272854-fa4db318-295e-4390-bd6a-5e5bfe54acbe.png)
 
 
